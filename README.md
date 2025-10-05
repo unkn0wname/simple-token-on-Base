@@ -141,7 +141,6 @@ BASE_SEPOLIA_RPC_URL=https://sepolia.base.org
 BASE_MAINNET_RPC_URL=https://mainnet.base.org
 ```
 - `PRIVATE_KEY`: your wallet's private key
-- `BASESCAN_API_KEY`: visit https://etherscan.io/apidashboard to grab yours and fill in
 
 In `your_folder`, open a file named `foundry.tomb` and update it
 ```
