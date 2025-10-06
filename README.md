@@ -166,7 +166,7 @@ NOTE: I recommend deploying and verifying it on Base Testnet before Base Mainnet
 1. Deployment
 ```bash
 source .env
-forge script script/DeployToken.s.sol:DeployToken \ --rpc-url base_mainnet \ --broadcast
+forge script script/DeployToken.s.sol:DeployToken \--rpc-url base_mainnet \--broadcast
 ```
 - You need to change `base_mainnet` to `base_sepolia` to deploy to Base Testnet
 
