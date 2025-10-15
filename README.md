@@ -30,7 +30,7 @@ rm src/Counter.sol script/Counter.s.sol test/Counter.t.sol
 ```
 3. Install OpenZeppelin contracts
 ```bash
-install OpenZeppelin/openzeppelin-contracts
+forge install OpenZeppelin/openzeppelin-contracts
 ```
 
 ## Configuring The Code
